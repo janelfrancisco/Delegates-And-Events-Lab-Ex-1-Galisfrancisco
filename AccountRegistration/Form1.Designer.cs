@@ -85,6 +85,7 @@
             this.btn_Next.TabIndex = 2;
             this.btn_Next.Text = "Next";
             this.btn_Next.UseVisualStyleBackColor = false;
+            this.btn_Next.Click += new System.EventHandler(this.btn_Next_Click_1);
             // 
             // tBx_LastName
             // 
